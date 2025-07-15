@@ -78,6 +78,11 @@ Build three dashboards in Power BI:
 - **Customer Details**: Top customers, monthly analysis, budget vs revenue.
 - **Product Details**: Top products, sales over time, budget vs revenue.
 
+
 ## Conclusion
 
-All requirements are met. Publish the dashboard to Power BI Service
+All the tasks mentioned in the BRD has been completed as per the specified acceptance criteria. Once the final report is prepared, we publish the dashboard to  Power BI service and schedule automated data refresh based on the client's specification.
+
+This concludes a Business Analysis project of Customer Churn Prediction analysis.
+
+©
