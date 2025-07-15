@@ -85,4 +85,5 @@ All the tasks mentioned in the BRD has been completed as per the specified accep
 
 This concludes a Business Analysis project of Customer Churn Prediction analysis.
 
-©
+©KumariSiddhi
+
